@@ -17,7 +17,7 @@ section {
     display: flex;
     justify-content: center;
 }
-.chamada-texto {
+.chamada-texto{
     margin-right: 5%;
 }
 h1 { 
@@ -29,15 +29,15 @@ h1 {
 img {
   height: 200px;
 }
-.receita {
+.chamada-texto {
   display: flex;
 }
-.receita {
+.chamada-texto {
   display: flex;
   overflow-x: auto;
 }
 
-.receita {
+.chamada-texto {
   display: flex;
   overflow-x: auto;
   gap: 10px;
@@ -46,3 +46,4 @@ section {
   padding-left: 20px;
   padding-right: 20px;
 }
+
